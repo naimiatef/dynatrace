@@ -1,4 +1,6 @@
-# Exécuter l’agent Dynatrace sous Windows
+# Dynatrace – Analyses de problèmes
+![image](https://github.com/user-attachments/assets/ad1f9be4-52c3-487e-a203-b0f9850c3c5b)
+
 <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/datadog.png" width=200 height=200 >    <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/windows.png" width=200 height=200 > <br> <br>
 Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur une machine Windows, puis affichera les métriques collectées sur un tableau de bord Datadog.
 ## Conditions préalables
