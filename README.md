@@ -1,5 +1,13 @@
-# Dynatrace – Analyses de problèmes
-![image](https://github.com/user-attachments/assets/ad1f9be4-52c3-487e-a203-b0f9850c3c5b)
+# Dynatrace – Analyses de problèmes- Niveau 1
+## Objectif
+- Ce document permet de suivre pas à pas la démarche d’investigation de certains types de problème
+- Les démarches décrites sont valables pour un serveur Dynatrace
+
+Il conviendra toujours en premier lieu d’ouvrir le détail du problème détecté
+![image](https://github.com/user-attachments/assets/5a48c590-3787-4811-862f-489c6a681d35)
+
+
+![image](https://github.com/user-attachments/assets/b4514e57-9a8a-4154-910e-f40218a056b9)
 
 <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/datadog.png" width=200 height=200 >    <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/windows.png" width=200 height=200 > <br> <br>
 Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur une machine Windows, puis affichera les métriques collectées sur un tableau de bord Datadog.
